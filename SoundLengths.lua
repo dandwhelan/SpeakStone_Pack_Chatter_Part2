@@ -4565,6 +4565,7 @@ SpeakStoneSoundLengths_Pack_Chatter_Part2 = {
     ["npc21461_gossip3.ogg"] = 6.40,
     ["npc214651_gossip1.ogg"] = 7.28,
     ["npc21465_gossip1.ogg"] = 12.20,
+    ["npc214665_gossip1.ogg"] = 10.16,
     ["npc214669_gossip1.ogg"] = 8.96,
     ["npc214669_gossip2.ogg"] = 6.24,
     ["npc21493_gossip1.ogg"] = 15.66,
