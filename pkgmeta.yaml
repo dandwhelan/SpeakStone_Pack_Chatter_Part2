@@ -1,0 +1,5 @@
+package-as: SpeakStone_Pack_Chatter_Part2
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
